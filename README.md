@@ -6,7 +6,5 @@
 
 <br />
 
-<img align="left" alt="MR-Stan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MR-Stan&show_icons=true&hide_border=true" />
-
 [website]: https://mikestanley.site
 [linkedin]: https://linkedin.com/in/MR-Stan
